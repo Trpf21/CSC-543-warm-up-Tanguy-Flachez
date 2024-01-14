@@ -1,6 +1,3 @@
-# CSC-543-warm-up-Tanguy-Flachez
-
-
 {
     public:
     vector<int> twoSum(vector<int>& nums, int target)
